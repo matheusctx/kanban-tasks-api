@@ -23,6 +23,7 @@ Uma API para criação, deleção, leitura e atualização de tarefas de um Quad
 - Prisma
 - Express
 - Express Async Errors
+- CORS
 
 ## Executando o projeto
 
